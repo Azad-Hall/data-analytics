@@ -16,6 +16,7 @@ We will be using Python tool (IPython, scikit-learn and matplotlib) for developm
 
 ### Learn Machine Learning (theory)
 
+* [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations/)
 * [Learning from Data: Caltech](http://work.caltech.edu/telecourse.html)
 * [Machine Learning: Coursera: Andrew Ng](https://www.coursera.org/learn/machine-learning)
 
