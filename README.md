@@ -33,5 +33,9 @@ We will be using Python tool (IPython, scikit-learn and matplotlib) for developm
 * [Think Bayes](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf)
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
+### Other Resources
+
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) List of Machine learning libraries and frameworks.
+
 
 Everybody need not learn everything rather is it recommended that each one of you learn one (different) thing and learn it well. 
