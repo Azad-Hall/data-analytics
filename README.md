@@ -36,6 +36,7 @@ We will be using Python tool (IPython, scikit-learn and matplotlib) for developm
 ### Other Resources
 
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) List of Machine learning libraries and frameworks.
+* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets]
 * [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 
 Everybody need not learn everything rather is it recommended that each one of you learn one (different) thing and learn it well. 
